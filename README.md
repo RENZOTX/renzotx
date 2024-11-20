@@ -7,8 +7,8 @@
 <p align='center'>
 </p>
 
-![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)  
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Seguir&style=social)](https://github.com/Aditya664)
+![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=RENZOTX.RENZOTX) [![Github](https://img.shields.io/github/followers/RENZOTX?label=Seguir&style=social)](https://github.com/RENZOTX)
+
 
 <div size='20px'> ¡Hola! Mi nombre es Renzo. Gracias por tomarte el tiempo de visitar mi perfil de GitHub. 😊  
 </div>
