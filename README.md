@@ -28,8 +28,8 @@
 
 <h2> 🎓 Certificados de Estudios </h2>
 
-- 🏆 **Certificado en Java Básico**  
-  Emitido por XYZ Institute. [Ver aquí](URL_CERTIFICADO_1).  
+- 🏆 **Certificado de SQL SERVER FOR ANALYTICS**  
+  Emitido por XYZ Institute. [Ver aquí](https://drive.google.com/file/d/1PGwUXEj1doQv3Mmy3H2mq_lEnqV5OByx/view?usp=sharing).  
 - 🏆 **Curso de SQL Server Avanzado**  
   Emitido por ABC Academy. [Ver aquí](https://drive.google.com/file/d/1PFK4mOPVVoz5dAjExJRlqXksn3KwN53S/view?usp=sharing).  
 - 🏆 **Certificación en Python para Data Science**  
