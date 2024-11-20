@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente estoy trabajando en ser un mejor estudiante.  
-- 🌱 Estoy aprendiendo Git, Java y GitHub.  
+- 🌱 Estoy aprendiendo Html, Java y Python.  
 - 👯 Estoy buscando colaborar en proyectos interesantes.  
 - 💬 Pregúntame sobre SQL, Java.  
 - ⚡ Dato curioso: ¡Me encantan la lluvia!  
