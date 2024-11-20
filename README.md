@@ -31,7 +31,7 @@
 - 🏆 **Certificado en Java Básico**  
   Emitido por XYZ Institute. [Ver aquí](URL_CERTIFICADO_1).  
 - 🏆 **Curso de SQL Server Avanzado**  
-  Emitido por ABC Academy. [Ver aquí](https://drive.google.com/drive/u/1/my-drive).  
+  Emitido por ABC Academy. [Ver aquí](https://drive.google.com/file/d/1PFK4mOPVVoz5dAjExJRlqXksn3KwN53S/view?usp=sharing).  
 - 🏆 **Certificación en Python para Data Science**  
   Emitido por DEF Organization. [Ver aquí](URL_CERTIFICADO_3).  
 
