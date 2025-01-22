@@ -41,7 +41,7 @@
 
 <a href="mailto:renzoalama26@gmail.com"> 
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32px" align="center"/> 
-</a> renzoalama26@gmail.com
+</a> renzoalamaortiz7@gmail.com
 
 
 
